@@ -1,0 +1,10 @@
+{
+  "name": "node-site",
+  "version": "1.0.0",
+  "description": "Simple one-page Node.js site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
